@@ -1,0 +1,1053 @@
+00:16:24 Sun Oct 30 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_admin\opnet-17-5.prefs_academic C:\Users\Sangeet\AppData\Local\Temp\opnet-17-5.prefs_academic_bk7052
+
+00:16:25 Sun Oct 30 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_admin\opnet-17-5.prefs_academic C:\Users\Sangeet\AppData\Local\Temp\opnet-17-5.prefs_academic_bk7052
+
+00:16:27 Sun Oct 30 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_admin\opnet-17-5.prefs_academic C:\Users\Sangeet\AppData\Local\Temp\opnet-17-5.prefs_academic_bk7052
+
+00:16:29 Sun Oct 30 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_admin\opnet-17-5.prefs_academic C:\Users\Sangeet\AppData\Local\Temp\opnet-17-5.prefs_academic_bk7052
+
+00:16:31 Sun Oct 30 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_admin\opnet-17-5.prefs_academic C:\Users\Sangeet\AppData\Local\Temp\opnet-17-5.prefs_academic_bk7052
+
+00:16:42 Sun Oct 30 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_admin\opnet-17-5.prefs_academic C:\Users\Sangeet\AppData\Local\Temp\opnet-17-5.prefs_academic_bk7052
+
+00:16:43 Sun Oct 30 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_admin\tmp\op_write_test_ABA1_48BB
+
+00:16:53 Sun Oct 30 2016: modeler issued the following command:
+	C:\Program Files\Google\Chrome\Application\chrome.exe http://media-cms.riverbed.com/documents/registration.html
+
+00:18:14 Sun Oct 30 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_admin\tmp\oppy_stdout_7052.tmp
+
+00:18:14 Sun Oct 30 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_admin\tmp\oppy_stderr_7052.tmp
+
+00:18:26 Sun Oct 30 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_admin\opnet-17-5.prefs_academic C:\Users\Sangeet\op_admin\bk\opnet-17-5.prefs_academic_bk7516
+
+00:18:27 Sun Oct 30 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_admin\opnet-17-5.prefs_academic C:\Users\Sangeet\op_admin\bk\opnet-17-5.prefs_academic_bk7516
+
+00:18:30 Sun Oct 30 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_admin\tmp\op_write_test_ABA4_3FAF
+
+01:19:16 Sun Oct 30 2016: modeler issued the following command:
+	STARTED REVERTING PROJECT: project1
+
+01:19:17 Sun Oct 30 2016: modeler issued the following command:
+	FINISHED REVERTING PROJECT: project1
+
+01:19:17 Sun Oct 30 2016: modeler issued the following command:
+	STARTED REMOVING TEMPORARY PROJECT: project1
+
+01:19:17 Sun Oct 30 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\project1.project\project1.prj C:\Users\Sangeet\op_admin\bk\project1_bk.prj
+
+01:19:17 Sun Oct 30 2016: modeler issued the following command:
+	FINISHED REMOVING TEMPORARY PROJECT: project1
+
+01:19:23 Sun Oct 30 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_admin\tmp\oppy_stdout_7516.tmp
+
+01:19:23 Sun Oct 30 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_admin\tmp\oppy_stderr_7516.tmp
+
+14:43:03 Mon Oct 31 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_admin\opnet-17-5.prefs_academic C:\Users\Sangeet\op_admin\bk\opnet-17-5.prefs_academic_bk7128
+
+14:43:07 Mon Oct 31 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_admin\opnet-17-5.prefs_academic C:\Users\Sangeet\op_admin\bk\opnet-17-5.prefs_academic_bk7128
+
+14:43:11 Mon Oct 31 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_admin\tmp\op_write_test_BC85_F163
+
+14:45:39 Mon Oct 31 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_admin\opnet-17-5.prefs_academic C:\Users\Sangeet\op_admin\bk\opnet-17-5.prefs_academic_bk7128
+
+17:25:21 Mon Oct 31 2016: modeler issued the following command:
+	STARTED REVERTING PROJECT: opnetNS__TCP
+
+17:25:21 Mon Oct 31 2016: modeler issued the following command:
+	FINISHED REVERTING PROJECT: opnetNS__TCP
+
+17:25:28 Mon Oct 31 2016: modeler issued the following command:
+	STARTED REVERTING PROJECT: project1
+
+17:25:28 Mon Oct 31 2016: modeler issued the following command:
+	FINISHED REVERTING PROJECT: project1
+
+17:25:28 Mon Oct 31 2016: modeler issued the following command:
+	STARTED REMOVING TEMPORARY PROJECT: project1
+
+17:25:28 Mon Oct 31 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_admin\bk\project1_bk.prj
+
+17:25:28 Mon Oct 31 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\project1.project\project1.prj C:\Users\Sangeet\op_admin\bk\project1_bk.prj
+
+17:25:28 Mon Oct 31 2016: modeler issued the following command:
+	FINISHED REMOVING TEMPORARY PROJECT: project1
+
+17:25:34 Mon Oct 31 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_admin\tmp\oppy_stdout_7128.tmp
+
+17:25:34 Mon Oct 31 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_admin\tmp\oppy_stderr_7128.tmp
+
+14:17:18 Wed Nov 02 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_admin\opnet-17-5.prefs_academic C:\Users\Sangeet\op_admin\bk\opnet-17-5.prefs_academic_bk228
+
+14:17:22 Wed Nov 02 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_admin\opnet-17-5.prefs_academic C:\Users\Sangeet\op_admin\bk\opnet-17-5.prefs_academic_bk228
+
+14:17:26 Wed Nov 02 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_admin\opnet-17-5.prefs_academic C:\Users\Sangeet\op_admin\bk\opnet-17-5.prefs_academic_bk228
+
+14:17:29 Wed Nov 02 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_admin\tmp\op_write_test_D16D_FED3
+
+14:19:06 Wed Nov 02 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_admin\opnet-17-5.prefs_academic C:\Users\Sangeet\op_admin\bk\opnet-17-5.prefs_academic_bk228
+
+14:19:32 Wed Nov 02 2016: modeler issued the following command:
+	STARTED REVERTING PROJECT: opnetNS__TCP
+
+14:19:33 Wed Nov 02 2016: modeler issued the following command:
+	FINISHED REVERTING PROJECT: opnetNS__TCP
+
+15:17:34 Wed Nov 02 2016: modeler issued the following command:
+	STARTED REVERTING PROJECT: N__S_WirelessLAN1
+
+15:17:34 Wed Nov 02 2016: modeler issued the following command:
+	FINISHED REVERTING PROJECT: N__S_WirelessLAN1
+
+15:17:39 Wed Nov 02 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_admin\tmp\oppy_stdout_228.tmp
+
+15:17:39 Wed Nov 02 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_admin\tmp\oppy_stderr_228.tmp
+
+11:42:26 Thu Nov 17 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_admin\opnet-17-5.prefs_academic C:\Users\Sangeet\op_admin\bk\opnet-17-5.prefs_academic_bk2848
+
+11:42:29 Thu Nov 17 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_admin\tmp\op_write_test_6EEF_FBCF
+
+11:42:29 Thu Nov 17 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_admin\opnet-17-5.prefs_academic C:\Users\Sangeet\op_admin\bk\opnet-17-5.prefs_academic_bk2848
+
+11:42:37 Thu Nov 17 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_admin\tmp\oppy_stdout_2848.tmp
+
+11:42:37 Thu Nov 17 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_admin\tmp\oppy_stderr_2848.tmp
+
+11:42:42 Thu Nov 17 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_admin\opnet-17-5.prefs_academic C:\Users\Sangeet\op_admin\bk\opnet-17-5.prefs_academic_bk2508
+
+11:42:42 Thu Nov 17 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_admin\tmp\op_write_test_6EF0_9DBF
+
+11:42:42 Thu Nov 17 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_admin\opnet-17-5.prefs_academic C:\Users\Sangeet\op_admin\bk\opnet-17-5.prefs_academic_bk2508
+
+11:42:46 Thu Nov 17 2016: modeler issued the following command:
+	C:\Program Files\Google\Chrome\Application\chrome.exe http://media-cms.riverbed.com/documents/registration.html
+
+11:44:24 Thu Nov 17 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_admin\tmp\oppy_stdout_2508.tmp
+
+11:44:24 Thu Nov 17 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_admin\tmp\oppy_stderr_2508.tmp
+
+11:47:13 Thu Nov 17 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_admin\opnet-17-5.prefs_academic C:\Users\Sangeet\op_admin\bk\opnet-17-5.prefs_academic_bk1196
+
+11:47:14 Thu Nov 17 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_admin\opnet-17-5.prefs_academic C:\Users\Sangeet\op_admin\bk\opnet-17-5.prefs_academic_bk1196
+
+11:47:18 Thu Nov 17 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_admin\tmp\op_write_test_6EF8_8F9F
+
+12:35:39 Thu Nov 17 2016: modeler issued the following command:
+	STARTED PRESERVING SCENARIO: Network Setup
+	IN PROJECT: WorldWide Network
+
+12:35:39 Thu Nov 17 2016: modeler issued the following command:
+	FINISHED PRESERVING SCENARIO: Network Setup
+
+12:35:40 Thu Nov 17 2016: modeler issued the following command:
+	C:\Riverbed EDU\17.5.A\sys\pc_intel_win32\bin\op_runsim -net_name "WorldWide Network-Network Setup" -noprompt -ef "WorldWide Network-Network Setup-DES-1" -DESinfo "WorldWide Network-Network Setup-DES-1" -exec_id 1 -mgr_id 1 -opnet_port 49837 -parent_pid 1196 -pipe_stdin
+
+12:35:44 Thu Nov 17 2016: op_runsim issued the following command:
+	C:\Riverbed EDU\17.5.A\sys\pc_intel_win32\bin\op_runsim_opt -net_name "WorldWide Network-Network Setup" -noprompt -ef "WorldWide Network-Network Setup-DES-1" -DESinfo "WorldWide Network-Network Setup-DES-1" -exec_id 1 -mgr_id 1 -opnet_port 49837 -parent_pid 1196 -pipe_stdin
+
+12:35:48 Thu Nov 17 2016: op_runsim_opt issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.olf.dir\6164_11-17-2016_17.35.48.ot
+
+12:35:50 Thu Nov 17 2016: op_runsim_opt issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide Network-Network Setup-DES-1.ot
+
+12:35:50 Thu Nov 17 2016: op_runsim_opt issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide_Network_Network_Setup_DES_1_security_results.ot
+
+12:35:50 Thu Nov 17 2016: op_runsim_opt issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network-Network Setup-DES-1.ot C:\Users\Sangeet\op_models\WorldWide Network.project\tmp0-WorldWide Network-Network Setup-DES-1.ot
+
+12:35:50 Thu Nov 17 2016: op_runsim_opt issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network.project\tmp0-WorldWide Network-Network Setup-DES-1.ot C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.ot
+
+12:47:23 Thu Nov 17 2016: modeler issued the following command:
+	STARTED BACKING UP SCENARIO: Network Setup
+	IN PROJECT: WorldWide Network
+
+12:47:23 Thu Nov 17 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network-Network Setup_bk1196.nt.m C:\Users\Sangeet\op_admin\bk\WorldWide Network-Network Setup_bk.nt.m
+
+12:47:23 Thu Nov 17 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network-Network Setup_bk1196.pps.m C:\Users\Sangeet\op_admin\bk\WorldWide Network-Network Setup_bk.pps.m
+
+12:47:23 Thu Nov 17 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network-Network Setup_bk1196.pb.m C:\Users\Sangeet\op_admin\bk\WorldWide Network-Network Setup_bk.pb.m
+
+12:47:23 Thu Nov 17 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network-Network Setup_bk1196.seq C:\Users\Sangeet\op_admin\bk\WorldWide Network-Network Setup_bk.seq
+
+12:47:23 Thu Nov 17 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network-Network Setup_bk1196.ac C:\Users\Sangeet\op_admin\bk\WorldWide Network-Network Setup_bk.ac
+
+12:47:23 Thu Nov 17 2016: modeler issued the following command:
+	FINISHED BACKING UP SCENARIO: Network Setup
+
+12:47:23 Thu Nov 17 2016: modeler issued the following command:
+	STARTED BACKING UP PROJECT: WorldWide Network
+
+12:47:23 Thu Nov 17 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network_bk1196.prj C:\Users\Sangeet\op_admin\bk\WorldWide Network_bk.prj
+
+12:47:23 Thu Nov 17 2016: modeler issued the following command:
+	FINISHED BACKING UP PROJECT: WorldWide Network
+
+12:50:29 Thu Nov 17 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_admin\opnet-17-5.prefs_academic C:\Users\Sangeet\op_admin\bk\opnet-17-5.prefs_academic_bk1196
+
+13:57:03 Thu Nov 17 2016: modeler issued the following command:
+	STARTED BACKING UP SCENARIO: Network Setup
+	IN PROJECT: WorldWide Network
+
+13:57:03 Thu Nov 17 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_admin\bk\WorldWide Network-Network Setup_bk.nt.m
+
+13:57:03 Thu Nov 17 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network-Network Setup_bk1196.nt.m C:\Users\Sangeet\op_admin\bk\WorldWide Network-Network Setup_bk.nt.m
+
+13:57:03 Thu Nov 17 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_admin\bk\WorldWide Network-Network Setup_bk.pps.m
+
+13:57:03 Thu Nov 17 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network-Network Setup_bk1196.pps.m C:\Users\Sangeet\op_admin\bk\WorldWide Network-Network Setup_bk.pps.m
+
+13:57:03 Thu Nov 17 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_admin\bk\WorldWide Network-Network Setup_bk.pb.m
+
+13:57:03 Thu Nov 17 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network-Network Setup_bk1196.pb.m C:\Users\Sangeet\op_admin\bk\WorldWide Network-Network Setup_bk.pb.m
+
+13:57:03 Thu Nov 17 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_admin\bk\WorldWide Network-Network Setup_bk.seq
+
+13:57:03 Thu Nov 17 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network-Network Setup_bk1196.seq C:\Users\Sangeet\op_admin\bk\WorldWide Network-Network Setup_bk.seq
+
+13:57:03 Thu Nov 17 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_admin\bk\WorldWide Network-Network Setup_bk.ac
+
+13:57:03 Thu Nov 17 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network-Network Setup_bk1196.ac C:\Users\Sangeet\op_admin\bk\WorldWide Network-Network Setup_bk.ac
+
+13:57:03 Thu Nov 17 2016: modeler issued the following command:
+	FINISHED BACKING UP SCENARIO: Network Setup
+
+14:05:17 Thu Nov 17 2016: modeler issued the following command:
+	STARTED PRESERVING SCENARIO: Network Setup
+	IN PROJECT: WorldWide Network
+
+14:05:18 Thu Nov 17 2016: modeler issued the following command:
+	FINISHED PRESERVING SCENARIO: Network Setup
+
+14:05:18 Thu Nov 17 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.ov
+
+14:05:18 Thu Nov 17 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.ot
+
+14:05:18 Thu Nov 17 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.ef
+
+14:05:18 Thu Nov 17 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.desinfo
+
+14:05:18 Thu Nov 17 2016: modeler issued the following command:
+	C:\Riverbed EDU\17.5.A\sys\pc_intel_win32\bin\op_runsim -net_name "WorldWide Network-Network Setup" -noprompt -ef "WorldWide Network-Network Setup-DES-1" -DESinfo "WorldWide Network-Network Setup-DES-1" -exec_id 1 -mgr_id 1 -opnet_port 50451 -parent_pid 1196 -pipe_stdin
+
+14:05:23 Thu Nov 17 2016: op_runsim issued the following command:
+	C:\Riverbed EDU\17.5.A\sys\pc_intel_win32\bin\op_runsim_opt -net_name "WorldWide Network-Network Setup" -noprompt -ef "WorldWide Network-Network Setup-DES-1" -DESinfo "WorldWide Network-Network Setup-DES-1" -exec_id 1 -mgr_id 1 -opnet_port 50451 -parent_pid 1196 -pipe_stdin
+
+14:05:27 Thu Nov 17 2016: op_runsim_opt issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.olf.dir\3212_11-17-2016_19.05.27.ot
+
+14:05:29 Thu Nov 17 2016: op_runsim_opt issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide Network-Network Setup-DES-1.ot
+
+14:05:29 Thu Nov 17 2016: op_runsim_opt issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide_Network_Network_Setup_DES_1_security_results.ot
+
+14:05:29 Thu Nov 17 2016: op_runsim_opt issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide_Network_Network_Setup_DES_1_security_results.ot
+
+14:05:44 Thu Nov 17 2016: op_runsim_opt issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network-Network Setup-DES-1.ot C:\Users\Sangeet\op_models\WorldWide Network.project\tmp0-WorldWide Network-Network Setup-DES-1.ot
+
+14:05:44 Thu Nov 17 2016: op_runsim_opt issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network.project\tmp0-WorldWide Network-Network Setup-DES-1.ot C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.ot
+
+14:05:52 Thu Nov 17 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_admin\opnet-17-5.prefs_academic C:\Users\Sangeet\op_admin\bk\opnet-17-5.prefs_academic_bk1196
+
+14:06:28 Thu Nov 17 2016: modeler issued the following command:
+	STARTED PRESERVING SCENARIO: Network Setup
+	IN PROJECT: WorldWide Network
+
+14:06:28 Thu Nov 17 2016: modeler issued the following command:
+	FINISHED PRESERVING SCENARIO: Network Setup
+
+14:06:28 Thu Nov 17 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.ov
+
+14:06:28 Thu Nov 17 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.ot
+
+14:06:28 Thu Nov 17 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.ef
+
+14:06:28 Thu Nov 17 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.desinfo
+
+14:06:28 Thu Nov 17 2016: modeler issued the following command:
+	C:\Riverbed EDU\17.5.A\sys\pc_intel_win32\bin\op_runsim -net_name "WorldWide Network-Network Setup" -noprompt -ef "WorldWide Network-Network Setup-DES-1" -DESinfo "WorldWide Network-Network Setup-DES-1" -exec_id 1 -mgr_id 1 -opnet_port 50455 -parent_pid 1196 -pipe_stdin
+
+14:06:31 Thu Nov 17 2016: op_runsim issued the following command:
+	C:\Riverbed EDU\17.5.A\sys\pc_intel_win32\bin\op_runsim_opt -net_name "WorldWide Network-Network Setup" -noprompt -ef "WorldWide Network-Network Setup-DES-1" -DESinfo "WorldWide Network-Network Setup-DES-1" -exec_id 1 -mgr_id 1 -opnet_port 50455 -parent_pid 1196 -pipe_stdin
+
+14:06:34 Thu Nov 17 2016: op_runsim_opt issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.olf.dir\6856_11-17-2016_19.06.34.ot
+
+14:06:35 Thu Nov 17 2016: op_runsim_opt issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide Network-Network Setup-DES-1.ot
+
+14:06:35 Thu Nov 17 2016: op_runsim_opt issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide_Network_Network_Setup_DES_1_security_results.ot
+
+14:06:35 Thu Nov 17 2016: op_runsim_opt issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide_Network_Network_Setup_DES_1_security_results.ot
+
+14:06:49 Thu Nov 17 2016: op_runsim_opt issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network-Network Setup-DES-1.ot C:\Users\Sangeet\op_models\WorldWide Network.project\tmp0-WorldWide Network-Network Setup-DES-1.ot
+
+14:06:49 Thu Nov 17 2016: op_runsim_opt issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network.project\tmp0-WorldWide Network-Network Setup-DES-1.ot C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.ot
+
+14:18:22 Thu Nov 17 2016: modeler issued the following command:
+	STARTED REMOVING TEMPORARY PROJECT: WorldWide Network
+
+14:18:22 Thu Nov 17 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network.prj
+
+14:18:22 Thu Nov 17 2016: modeler issued the following command:
+	FINISHED REMOVING TEMPORARY PROJECT: WorldWide Network
+
+14:18:22 Thu Nov 17 2016: modeler issued the following command:
+	STARTED SAVING PROJECT: WorldWide Network1
+	FROM PROJECT: WorldWide Network
+
+14:18:22 Thu Nov 17 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup.nt.m C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-Network Setup.nt.m
+
+14:18:22 Thu Nov 17 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup.pb.m C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-Network Setup.pb.m
+
+14:18:22 Thu Nov 17 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup.seq C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-Network Setup.seq
+
+14:18:22 Thu Nov 17 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.ov C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-Network Setup-DES-1.ov
+
+14:18:22 Thu Nov 17 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.ot C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-Network Setup-DES-1.ot
+
+14:18:22 Thu Nov 17 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network-Network Setup.cml C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-Network Setup.cml
+
+14:18:22 Thu Nov 17 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.ef C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-Network Setup-DES-1.ef
+
+14:18:22 Thu Nov 17 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.olf.dir\6856_11-17-2016_19.06.34.ot C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-Network Setup-DES-1.olf.dir\6856_11-17-2016_19.06.34.ot
+
+14:18:22 Thu Nov 17 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.olf.dir\log_info C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-Network Setup-DES-1.olf.dir\log_info
+
+14:18:22 Thu Nov 17 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.desinfo C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-Network Setup-DES-1.desinfo
+
+14:18:22 Thu Nov 17 2016: modeler issued the following command:
+	FINISHED SAVING PROJECT: WorldWide Network1
+
+14:18:22 Thu Nov 17 2016: modeler issued the following command:
+	STARTED REVERTING PROJECT: WorldWide Network
+
+14:18:22 Thu Nov 17 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_admin\bk\WorldWide Network-Network Setup_bk.nt.m
+
+14:18:22 Thu Nov 17 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup.nt.m C:\Users\Sangeet\op_admin\bk\WorldWide Network-Network Setup_bk.nt.m
+
+14:18:22 Thu Nov 17 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_admin\bk\WorldWide Network-Network Setup_bk.pb.m
+
+14:18:22 Thu Nov 17 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup.pb.m C:\Users\Sangeet\op_admin\bk\WorldWide Network-Network Setup_bk.pb.m
+
+14:18:22 Thu Nov 17 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_admin\bk\WorldWide Network-Network Setup_bk.seq
+
+14:18:22 Thu Nov 17 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup.seq C:\Users\Sangeet\op_admin\bk\WorldWide Network-Network Setup_bk.seq
+
+14:18:22 Thu Nov 17 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.ov
+
+14:18:22 Thu Nov 17 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.ot C:\Users\Sangeet\op_admin\bk\WorldWide Network-Network Setup-DES-1_bk.ot
+
+14:18:22 Thu Nov 17 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network-Network Setup.cml C:\Users\Sangeet\op_admin\bk\WorldWide Network-Network Setup_bk.cml
+
+14:18:22 Thu Nov 17 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.ef
+
+14:18:22 Thu Nov 17 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.olf.dir\6856_11-17-2016_19.06.34.ot C:\Users\Sangeet\op_admin\bk\WorldWide Network-Network Setup-DES-1_bk.olf.dir\6856_11-17-2016_19.06.34.ot
+
+14:18:22 Thu Nov 17 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.olf.dir\log_info C:\Users\Sangeet\op_admin\bk\WorldWide Network-Network Setup-DES-1_bk.olf.dir\log_info
+
+14:18:22 Thu Nov 17 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.desinfo
+
+14:18:22 Thu Nov 17 2016: modeler issued the following command:
+	FINISHED REVERTING PROJECT: WorldWide Network
+
+14:18:51 Thu Nov 17 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_admin\tmp\oppy_stdout_1196.tmp
+
+14:18:51 Thu Nov 17 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_admin\tmp\oppy_stderr_1196.tmp
+
+14:22:29 Thu Nov 17 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_admin\opnet-17-5.prefs_academic C:\Users\Sangeet\op_admin\bk\opnet-17-5.prefs_academic_bk2492
+
+14:22:32 Thu Nov 17 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_admin\opnet-17-5.prefs_academic C:\Users\Sangeet\op_admin\bk\opnet-17-5.prefs_academic_bk2492
+
+14:22:35 Thu Nov 17 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_admin\tmp\op_write_test_701B_C25B
+
+14:31:08 Thu Nov 17 2016: modeler issued the following command:
+	STARTED PRESERVING SCENARIO: Network Setup
+	IN PROJECT: WorldWide Network1
+
+14:31:08 Thu Nov 17 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-Network Setup.nt.m C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-#Network Setup.nt.m
+
+14:31:08 Thu Nov 17 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-Network Setup.pb.m C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-#Network Setup.pb.m
+
+14:31:08 Thu Nov 17 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-Network Setup.seq C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-#Network Setup.seq
+
+14:31:08 Thu Nov 17 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-Network Setup.ac C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-#Network Setup.ac
+
+14:31:08 Thu Nov 17 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-Network Setup-DES-1.ov C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-#Network Setup-DES-1.ov
+
+14:31:08 Thu Nov 17 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-Network Setup-DES-1.ot C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-#Network Setup-DES-1.ot
+
+14:31:08 Thu Nov 17 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-Network Setup.cml C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-#Network Setup.cml
+
+14:31:08 Thu Nov 17 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-Network Setup-DES-1.ef C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-#Network Setup-DES-1.ef
+
+14:31:08 Thu Nov 17 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-Network Setup-DES-1.olf.dir\6856_11-17-2016_19.06.34.ot C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-#Network Setup-DES-1.olf.dir\6856_11-17-2016_19.06.34.ot
+
+14:31:08 Thu Nov 17 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-Network Setup-DES-1.olf.dir\log_info C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-#Network Setup-DES-1.olf.dir\log_info
+
+14:31:08 Thu Nov 17 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-Network Setup-DES-1.desinfo C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-#Network Setup-DES-1.desinfo
+
+14:31:08 Thu Nov 17 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-#Network Setup.nt.m C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-Network Setup.nt.m
+
+14:31:08 Thu Nov 17 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-#Network Setup.pb.m C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-Network Setup.pb.m
+
+14:31:08 Thu Nov 17 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-#Network Setup.seq C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-Network Setup.seq
+
+14:31:08 Thu Nov 17 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-#Network Setup.ac C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-Network Setup.ac
+
+14:31:08 Thu Nov 17 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-#Network Setup-DES-1.ov C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-Network Setup-DES-1.ov
+
+14:31:08 Thu Nov 17 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-#Network Setup-DES-1.ot C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-Network Setup-DES-1.ot
+
+14:31:08 Thu Nov 17 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-#Network Setup.cml C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-Network Setup.cml
+
+14:31:08 Thu Nov 17 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-#Network Setup-DES-1.ef C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-Network Setup-DES-1.ef
+
+14:31:08 Thu Nov 17 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-#Network Setup-DES-1.olf.dir\6856_11-17-2016_19.06.34.ot C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-Network Setup-DES-1.olf.dir\6856_11-17-2016_19.06.34.ot
+
+14:31:08 Thu Nov 17 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-#Network Setup-DES-1.olf.dir\log_info C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-Network Setup-DES-1.olf.dir\log_info
+
+14:31:08 Thu Nov 17 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-#Network Setup-DES-1.desinfo C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-Network Setup-DES-1.desinfo
+
+14:31:08 Thu Nov 17 2016: modeler issued the following command:
+	FINISHED PRESERVING SCENARIO: Network Setup
+
+14:31:08 Thu Nov 17 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-Network Setup-DES-1.ov
+
+14:31:08 Thu Nov 17 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-Network Setup-DES-1.ot
+
+14:31:08 Thu Nov 17 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-Network Setup-DES-1.ef
+
+14:31:08 Thu Nov 17 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-Network Setup-DES-1.desinfo
+
+14:31:08 Thu Nov 17 2016: modeler issued the following command:
+	C:\Riverbed EDU\17.5.A\sys\pc_intel_win32\bin\op_runsim -net_name "WorldWide Network1-Network Setup" -noprompt -ef "WorldWide Network1-Network Setup-DES-1" -DESinfo "WorldWide Network1-Network Setup-DES-1" -exec_id 1 -mgr_id 1 -opnet_port 50513 -parent_pid 2492 -pipe_stdin
+
+14:31:11 Thu Nov 17 2016: op_runsim issued the following command:
+	C:\Riverbed EDU\17.5.A\sys\pc_intel_win32\bin\op_runsim_opt -net_name "WorldWide Network1-Network Setup" -noprompt -ef "WorldWide Network1-Network Setup-DES-1" -DESinfo "WorldWide Network1-Network Setup-DES-1" -exec_id 1 -mgr_id 1 -opnet_port 50513 -parent_pid 2492 -pipe_stdin
+
+14:31:14 Thu Nov 17 2016: op_runsim_opt issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-Network Setup-DES-1.olf.dir\7288_11-17-2016_19.31.14.ot
+
+14:31:15 Thu Nov 17 2016: op_runsim_opt issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide Network1-Network Setup-DES-1.ot
+
+14:31:15 Thu Nov 17 2016: op_runsim_opt issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide_Network1_Network_Setup_DES_1_security_results.ot
+
+14:31:29 Thu Nov 17 2016: op_runsim_opt issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network1-Network Setup-DES-1.ot C:\Users\Sangeet\op_models\WorldWide Network1.project\tmp0-WorldWide Network1-Network Setup-DES-1.ot
+
+14:31:29 Thu Nov 17 2016: op_runsim_opt issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network1.project\tmp0-WorldWide Network1-Network Setup-DES-1.ot C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-Network Setup-DES-1.ot
+
+14:48:57 Thu Nov 17 2016: modeler issued the following command:
+	STARTED SAVING PROJECT: WorldWide Network1
+
+14:48:57 Thu Nov 17 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1.prj C:\Users\Sangeet\op_admin\bk\WorldWide Network1_bk1.prj
+
+14:48:57 Thu Nov 17 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-#Network Setup.nt.m C:\Users\Sangeet\op_admin\bk\WorldWide Network1-Network Setup_bk1.nt.m
+
+14:48:57 Thu Nov 17 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-#Network Setup.pb.m C:\Users\Sangeet\op_admin\bk\WorldWide Network1-Network Setup_bk1.pb.m
+
+14:48:57 Thu Nov 17 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-#Network Setup.seq C:\Users\Sangeet\op_admin\bk\WorldWide Network1-Network Setup_bk1.seq
+
+14:48:57 Thu Nov 17 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-#Network Setup.ac C:\Users\Sangeet\op_admin\bk\WorldWide Network1-Network Setup_bk1.ac
+
+14:48:57 Thu Nov 17 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-#Network Setup-DES-1.ov
+
+14:48:57 Thu Nov 17 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-#Network Setup-DES-1.ot C:\Users\Sangeet\op_admin\bk\WorldWide Network1-Network Setup-DES-1_bk1.ot
+
+14:48:57 Thu Nov 17 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-#Network Setup.cml C:\Users\Sangeet\op_admin\bk\WorldWide Network1-Network Setup_bk1.cml
+
+14:48:57 Thu Nov 17 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-#Network Setup-DES-1.ef
+
+14:48:57 Thu Nov 17 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-#Network Setup-DES-1.olf.dir\6856_11-17-2016_19.06.34.ot C:\Users\Sangeet\op_admin\bk\WorldWide Network1-Network Setup-DES-1_bk1.olf.dir\6856_11-17-2016_19.06.34.ot
+
+14:48:57 Thu Nov 17 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-#Network Setup-DES-1.olf.dir\log_info C:\Users\Sangeet\op_admin\bk\WorldWide Network1-Network Setup-DES-1_bk1.olf.dir\log_info
+
+14:48:57 Thu Nov 17 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-#Network Setup-DES-1.desinfo
+
+14:48:57 Thu Nov 17 2016: modeler issued the following command:
+	FINISHED SAVING PROJECT: WorldWide Network1
+
+
+14:49:02 Thu Nov 17 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_admin\tmp\oppy_stdout_2492.tmp
+
+14:49:02 Thu Nov 17 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_admin\tmp\oppy_stderr_2492.tmp
+
+14:53:30 Thu Nov 17 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_admin\opnet-17-5.prefs_academic C:\Users\Sangeet\op_admin\bk\opnet-17-5.prefs_academic_bk1696
+
+14:53:31 Thu Nov 17 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_admin\opnet-17-5.prefs_academic C:\Users\Sangeet\op_admin\bk\opnet-17-5.prefs_academic_bk1696
+
+14:53:34 Thu Nov 17 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_admin\tmp\op_write_test_7055_16AF
+
+14:55:52 Thu Nov 17 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_admin\opnet-17-5.prefs_academic C:\Users\Sangeet\op_admin\bk\opnet-17-5.prefs_academic_bk1696
+
+14:55:58 Thu Nov 17 2016: modeler issued the following command:
+	STARTED REVERTING PROJECT: N__S_WirelessLAN1
+
+14:55:59 Thu Nov 17 2016: modeler issued the following command:
+	FINISHED REVERTING PROJECT: N__S_WirelessLAN1
+
+14:56:11 Thu Nov 17 2016: modeler issued the following command:
+	STARTED REVERTING PROJECT: WorldWide Network1
+
+14:56:11 Thu Nov 17 2016: modeler issued the following command:
+	FINISHED REVERTING PROJECT: WorldWide Network1
+
+14:56:11 Thu Nov 17 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_admin\tmp\oppy_stdout_1696.tmp
+
+14:56:11 Thu Nov 17 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_admin\tmp\oppy_stderr_1696.tmp
+
+14:56:17 Thu Nov 17 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_admin\opnet-17-5.prefs_academic C:\Users\Sangeet\op_admin\bk\opnet-17-5.prefs_academic_bk6440
+
+14:56:17 Thu Nov 17 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_admin\opnet-17-5.prefs_academic C:\Users\Sangeet\op_admin\bk\opnet-17-5.prefs_academic_bk6440
+
+14:56:26 Thu Nov 17 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_admin\opnet-17-5.prefs_academic C:\Users\Sangeet\op_admin\bk\opnet-17-5.prefs_academic_bk6440
+
+14:56:26 Thu Nov 17 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_admin\tmp\op_write_test_705B_904F
+
+14:56:33 Thu Nov 17 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_admin\opnet-17-5.prefs_academic C:\Users\Sangeet\op_admin\bk\opnet-17-5.prefs_academic_bk6440
+
+14:56:37 Thu Nov 17 2016: modeler issued the following command:
+	STARTED REVERTING PROJECT: opnetNS__TCP
+
+14:56:37 Thu Nov 17 2016: modeler issued the following command:
+	FINISHED REVERTING PROJECT: opnetNS__TCP
+
+14:56:40 Thu Nov 17 2016: modeler issued the following command:
+	STARTED REVERTING PROJECT: N__S_WirelessLAN1
+
+14:56:41 Thu Nov 17 2016: modeler issued the following command:
+	FINISHED REVERTING PROJECT: N__S_WirelessLAN1
+
+14:57:51 Thu Nov 17 2016: modeler issued the following command:
+	STARTED REVERTING PROJECT: WorldWide Network1
+
+14:57:51 Thu Nov 17 2016: modeler issued the following command:
+	FINISHED REVERTING PROJECT: WorldWide Network1
+
+14:59:16 Thu Nov 17 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_admin\tmp\oppy_stdout_6440.tmp
+
+14:59:16 Thu Nov 17 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_admin\tmp\oppy_stderr_6440.tmp
+
+10:31:58 Fri Nov 18 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_admin\opnet-17-5.prefs_academic C:\Users\Sangeet\op_admin\bk\opnet-17-5.prefs_academic_bk4388
+
+10:32:02 Fri Nov 18 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_admin\opnet-17-5.prefs_academic C:\Users\Sangeet\op_admin\bk\opnet-17-5.prefs_academic_bk4388
+
+10:32:04 Fri Nov 18 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_admin\tmp\op_write_test_78F7_9657
+
+10:55:45 Fri Nov 18 2016: modeler issued the following command:
+	STARTED SAVING PROJECT: WorldWide Network
+	FROM PROJECT: WorldWide Network1
+
+10:55:45 Fri Nov 18 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-Network Setup.nt.m C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup.nt.m
+
+10:55:45 Fri Nov 18 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-Network Setup.pb.m C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup.pb.m
+
+10:55:45 Fri Nov 18 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-Network Setup.seq C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup.seq
+
+10:55:45 Fri Nov 18 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-Network Setup.ac C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup.ac
+
+10:55:45 Fri Nov 18 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-Network Setup-DES-1.ov C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.ov
+
+10:55:45 Fri Nov 18 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-Network Setup-DES-1.ot C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.ot
+
+10:55:45 Fri Nov 18 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-Network Setup.cml C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup.cml
+
+10:55:45 Fri Nov 18 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-Network Setup-DES-1.ef C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.ef
+
+10:55:45 Fri Nov 18 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-Network Setup-DES-1-stp_info.gdf C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1-stp_info.gdf
+
+10:55:45 Fri Nov 18 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-Network Setup-DES-1.olf.dir\7288_11-17-2016_19.31.14.ot C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.olf.dir\7288_11-17-2016_19.31.14.ot
+
+10:55:46 Fri Nov 18 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-Network Setup-DES-1.olf.dir\log_info C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.olf.dir\log_info
+
+10:55:46 Fri Nov 18 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network1.project\WorldWide Network1-Network Setup-DES-1.desinfo C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.desinfo
+
+10:55:54 Fri Nov 18 2016: modeler issued the following command:
+	FINISHED SAVING PROJECT: WorldWide Network
+
+10:55:54 Fri Nov 18 2016: modeler issued the following command:
+	STARTED REVERTING PROJECT: WorldWide Network1
+
+10:55:54 Fri Nov 18 2016: modeler issued the following command:
+	FINISHED REVERTING PROJECT: WorldWide Network1
+
+12:29:09 Fri Nov 18 2016: modeler issued the following command:
+	STARTED BACKING UP SCENARIO: Network Setup
+	IN PROJECT: WorldWide Network
+
+12:29:09 Fri Nov 18 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_admin\bk\WorldWide Network-Network Setup_bk.nt.m
+
+12:29:09 Fri Nov 18 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network-Network Setup_bk4388.nt.m C:\Users\Sangeet\op_admin\bk\WorldWide Network-Network Setup_bk.nt.m
+
+12:29:10 Fri Nov 18 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network-Network Setup_bk4388.pb.m C:\Users\Sangeet\op_admin\tmp\WorldWide Network-Network Setup_bk4388.pb.m
+
+12:29:10 Fri Nov 18 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_admin\bk\WorldWide Network-Network Setup_bk.pb.m
+
+12:29:10 Fri Nov 18 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network-Network Setup_bk4388.pb.m C:\Users\Sangeet\op_admin\bk\WorldWide Network-Network Setup_bk.pb.m
+
+12:29:10 Fri Nov 18 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_admin\bk\WorldWide Network-Network Setup_bk.seq
+
+12:29:10 Fri Nov 18 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network-Network Setup_bk4388.seq C:\Users\Sangeet\op_admin\bk\WorldWide Network-Network Setup_bk.seq
+
+12:29:10 Fri Nov 18 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_admin\bk\WorldWide Network-Network Setup_bk.ac
+
+12:29:10 Fri Nov 18 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network-Network Setup_bk4388.ac C:\Users\Sangeet\op_admin\bk\WorldWide Network-Network Setup_bk.ac
+
+12:29:10 Fri Nov 18 2016: modeler issued the following command:
+	FINISHED BACKING UP SCENARIO: Network Setup
+
+12:29:21 Fri Nov 18 2016: modeler issued the following command:
+	STARTED PRESERVING SCENARIO: Network Setup
+	IN PROJECT: WorldWide Network
+
+12:29:21 Fri Nov 18 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup.nt.m C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-#Network Setup.nt.m
+
+12:29:21 Fri Nov 18 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup.pb.m C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-#Network Setup.pb.m
+
+12:29:21 Fri Nov 18 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup.seq C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-#Network Setup.seq
+
+12:29:21 Fri Nov 18 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup.ac C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-#Network Setup.ac
+
+12:29:21 Fri Nov 18 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.ov C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-#Network Setup-DES-1.ov
+
+12:29:21 Fri Nov 18 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.ot C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-#Network Setup-DES-1.ot
+
+12:29:21 Fri Nov 18 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup.cml C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-#Network Setup.cml
+
+12:29:21 Fri Nov 18 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.ef C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-#Network Setup-DES-1.ef
+
+12:29:21 Fri Nov 18 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1-stp_info.gdf C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-#Network Setup-DES-1-stp_info.gdf
+
+12:29:21 Fri Nov 18 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.olf.dir\7288_11-17-2016_19.31.14.ot C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-#Network Setup-DES-1.olf.dir\7288_11-17-2016_19.31.14.ot
+
+12:29:21 Fri Nov 18 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.olf.dir\log_info C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-#Network Setup-DES-1.olf.dir\log_info
+
+12:29:21 Fri Nov 18 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.desinfo C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-#Network Setup-DES-1.desinfo
+
+12:29:21 Fri Nov 18 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-#Network Setup.nt.m C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup.nt.m
+
+12:29:21 Fri Nov 18 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-#Network Setup.pb.m C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup.pb.m
+
+12:29:21 Fri Nov 18 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-#Network Setup.seq C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup.seq
+
+12:29:21 Fri Nov 18 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-#Network Setup.ac C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup.ac
+
+12:29:21 Fri Nov 18 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-#Network Setup-DES-1.ov C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.ov
+
+12:29:21 Fri Nov 18 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-#Network Setup-DES-1.ot C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.ot
+
+12:29:21 Fri Nov 18 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-#Network Setup.cml C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup.cml
+
+12:29:21 Fri Nov 18 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-#Network Setup-DES-1.ef C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.ef
+
+12:29:21 Fri Nov 18 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-#Network Setup-DES-1-stp_info.gdf C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1-stp_info.gdf
+
+12:29:21 Fri Nov 18 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-#Network Setup-DES-1.olf.dir\7288_11-17-2016_19.31.14.ot C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.olf.dir\7288_11-17-2016_19.31.14.ot
+
+12:29:21 Fri Nov 18 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-#Network Setup-DES-1.olf.dir\log_info C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.olf.dir\log_info
+
+12:29:21 Fri Nov 18 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-#Network Setup-DES-1.desinfo C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.desinfo
+
+12:29:21 Fri Nov 18 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup.pb.m C:\Users\Sangeet\op_admin\tmp\WorldWide Network-Network Setup.pb.m
+
+12:29:21 Fri Nov 18 2016: modeler issued the following command:
+	FINISHED PRESERVING SCENARIO: Network Setup
+
+12:29:21 Fri Nov 18 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.ov
+
+12:29:21 Fri Nov 18 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.ot
+
+12:29:21 Fri Nov 18 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.ef
+
+12:29:21 Fri Nov 18 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1-stp_info.gdf
+
+12:29:21 Fri Nov 18 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.desinfo
+
+12:29:22 Fri Nov 18 2016: modeler issued the following command:
+	C:\Riverbed EDU\17.5.A\sys\pc_intel_win32\bin\op_runsim -net_name "WorldWide Network-Network Setup" -noprompt -ef "WorldWide Network-Network Setup-DES-1" -DESinfo "WorldWide Network-Network Setup-DES-1" -exec_id 1 -mgr_id 1 -opnet_port 51923 -parent_pid 4388 -pipe_stdin
+
+12:29:34 Fri Nov 18 2016: op_runsim issued the following command:
+	C:\Riverbed EDU\17.5.A\sys\pc_intel_win32\bin\op_runsim_opt -net_name "WorldWide Network-Network Setup" -noprompt -ef "WorldWide Network-Network Setup-DES-1" -DESinfo "WorldWide Network-Network Setup-DES-1" -exec_id 1 -mgr_id 1 -opnet_port 51923 -parent_pid 4388 -pipe_stdin
+
+12:29:47 Fri Nov 18 2016: op_runsim_opt issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.olf.dir\3880_11-18-2016_17.29.47.ot
+
+12:29:53 Fri Nov 18 2016: op_runsim_opt issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide Network-Network Setup-DES-1.ot
+
+12:29:53 Fri Nov 18 2016: op_runsim_opt issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide_Network_Network_Setup_DES_1_security_results.ot
+
+12:30:08 Fri Nov 18 2016: op_runsim_opt issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network-Network Setup-DES-1.ot C:\Users\Sangeet\op_models\WorldWide Network.project\tmp0-WorldWide Network-Network Setup-DES-1.ot
+
+12:30:08 Fri Nov 18 2016: op_runsim_opt issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network.project\tmp0-WorldWide Network-Network Setup-DES-1.ot C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.ot
+
+12:30:33 Fri Nov 18 2016: modeler issued the following command:
+	STARTED PRESERVING SCENARIO: Network Setup
+	IN PROJECT: WorldWide Network
+
+12:30:33 Fri Nov 18 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_admin\tmp\WorldWide Network-Network Setup.pb.m
+
+12:30:33 Fri Nov 18 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup.pb.m C:\Users\Sangeet\op_admin\tmp\WorldWide Network-Network Setup.pb.m
+
+12:30:33 Fri Nov 18 2016: modeler issued the following command:
+	FINISHED PRESERVING SCENARIO: Network Setup
+
+12:30:33 Fri Nov 18 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.ov
+
+12:30:33 Fri Nov 18 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.ot
+
+12:30:33 Fri Nov 18 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.ef
+
+12:30:33 Fri Nov 18 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.desinfo
+
+12:30:33 Fri Nov 18 2016: modeler issued the following command:
+	C:\Riverbed EDU\17.5.A\sys\pc_intel_win32\bin\op_runsim -net_name "WorldWide Network-Network Setup" -noprompt -ef "WorldWide Network-Network Setup-DES-1" -DESinfo "WorldWide Network-Network Setup-DES-1" -exec_id 1 -mgr_id 1 -opnet_port 51930 -parent_pid 4388 -pipe_stdin
+
+12:30:42 Fri Nov 18 2016: op_runsim issued the following command:
+	C:\Riverbed EDU\17.5.A\sys\pc_intel_win32\bin\op_runsim_opt -net_name "WorldWide Network-Network Setup" -noprompt -ef "WorldWide Network-Network Setup-DES-1" -DESinfo "WorldWide Network-Network Setup-DES-1" -exec_id 1 -mgr_id 1 -opnet_port 51930 -parent_pid 4388 -pipe_stdin
+
+12:30:51 Fri Nov 18 2016: op_runsim_opt issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.olf.dir\4004_11-18-2016_17.30.51.ot
+
+12:30:52 Fri Nov 18 2016: op_runsim_opt issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide Network-Network Setup-DES-1.ot
+
+12:30:52 Fri Nov 18 2016: op_runsim_opt issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide_Network_Network_Setup_DES_1_security_results.ot
+
+12:30:52 Fri Nov 18 2016: op_runsim_opt issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide_Network_Network_Setup_DES_1_security_results.ot
+
+12:31:06 Fri Nov 18 2016: op_runsim_opt issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network-Network Setup-DES-1.ot C:\Users\Sangeet\op_models\WorldWide Network.project\tmp0-WorldWide Network-Network Setup-DES-1.ot
+
+12:31:06 Fri Nov 18 2016: op_runsim_opt issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network.project\tmp0-WorldWide Network-Network Setup-DES-1.ot C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.ot
+
+13:05:47 Fri Nov 18 2016: modeler issued the following command:
+	STARTED REVERTING PROJECT: WorldWide Network
+
+13:05:47 Fri Nov 18 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_admin\bk\WorldWide Network-Network Setup_bk.nt.m
+
+13:05:47 Fri Nov 18 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup.nt.m C:\Users\Sangeet\op_admin\bk\WorldWide Network-Network Setup_bk.nt.m
+
+13:05:47 Fri Nov 18 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_admin\bk\WorldWide Network-Network Setup_bk.pb.m
+
+13:05:47 Fri Nov 18 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup.pb.m C:\Users\Sangeet\op_admin\bk\WorldWide Network-Network Setup_bk.pb.m
+
+13:05:47 Fri Nov 18 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_admin\bk\WorldWide Network-Network Setup_bk.seq
+
+13:05:47 Fri Nov 18 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup.seq C:\Users\Sangeet\op_admin\bk\WorldWide Network-Network Setup_bk.seq
+
+13:05:47 Fri Nov 18 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup.seq.xml C:\Users\Sangeet\op_admin\bk\WorldWide Network-Network Setup_bk.seq.xml
+
+13:05:47 Fri Nov 18 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_admin\bk\WorldWide Network-Network Setup_bk.ac
+
+13:05:47 Fri Nov 18 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup.ac C:\Users\Sangeet\op_admin\bk\WorldWide Network-Network Setup_bk.ac
+
+13:05:47 Fri Nov 18 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.ov
+
+13:05:47 Fri Nov 18 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_admin\bk\WorldWide Network-Network Setup-DES-1_bk.ot
+
+13:05:47 Fri Nov 18 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.ot C:\Users\Sangeet\op_admin\bk\WorldWide Network-Network Setup-DES-1_bk.ot
+
+13:05:47 Fri Nov 18 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_admin\bk\WorldWide Network-Network Setup_bk.cml
+
+13:05:47 Fri Nov 18 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup.cml C:\Users\Sangeet\op_admin\bk\WorldWide Network-Network Setup_bk.cml
+
+13:05:47 Fri Nov 18 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.ef
+
+13:05:47 Fri Nov 18 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.olf.dir\4004_11-18-2016_17.30.51.ot C:\Users\Sangeet\op_admin\bk\WorldWide Network-Network Setup-DES-1_bk.olf.dir\4004_11-18-2016_17.30.51.ot
+
+13:05:47 Fri Nov 18 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.olf.dir\log_info C:\Users\Sangeet\op_admin\bk\WorldWide Network-Network Setup-DES-1_bk.olf.dir\log_info
+
+13:05:47 Fri Nov 18 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.desinfo
+
+13:05:47 Fri Nov 18 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-#Network Setup.nt.m C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup.nt.m
+
+13:05:47 Fri Nov 18 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-#Network Setup.pb.m C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup.pb.m
+
+13:05:47 Fri Nov 18 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-#Network Setup.seq C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup.seq
+
+13:05:47 Fri Nov 18 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-#Network Setup.ac C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup.ac
+
+13:05:47 Fri Nov 18 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-#Network Setup-DES-1.ov C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.ov
+
+13:05:47 Fri Nov 18 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-#Network Setup-DES-1.ot C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.ot
+
+13:05:47 Fri Nov 18 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-#Network Setup.cml C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup.cml
+
+13:05:47 Fri Nov 18 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-#Network Setup-DES-1.ef C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.ef
+
+13:05:47 Fri Nov 18 2016: modeler issued the following command:
+	REMOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1-stp_info.gdf
+
+13:05:47 Fri Nov 18 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-#Network Setup-DES-1-stp_info.gdf C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1-stp_info.gdf
+
+13:05:47 Fri Nov 18 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-#Network Setup-DES-1.olf.dir\7288_11-17-2016_19.31.14.ot C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.olf.dir\7288_11-17-2016_19.31.14.ot
+
+13:05:47 Fri Nov 18 2016: modeler issued the following command:
+	COPY C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-#Network Setup-DES-1.olf.dir\log_info C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.olf.dir\log_info
+
+13:05:47 Fri Nov 18 2016: modeler issued the following command:
+	MOVE C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-#Network Setup-DES-1.desinfo C:\Users\Sangeet\op_models\WorldWide Network.project\WorldWide Network-Network Setup-DES-1.desinfo
+
+13:05:47 Fri Nov 18 2016: modeler issued the following command:
+	FINISHED REVERTING PROJECT: WorldWide Network
+

@@ -1,0 +1,44 @@
+# This file is an output of a discrete event simulation.
+# It contains spanning tree information to be parsed while
+# visualizing the spanning tree using the Protocols->STP menu.
+# Legend: node name, VID, VLAN/tree name, port/node type, link name.
+Subnet_India.node_10,0,Common ST,root,none
+Subnet_India.node_10,0,Common ST,designated_port,Subnet_India.node_10 <-> node_0
+Subnet_India.node_10,0,Common ST,designated_port,Subnet_India.node_10 <-> node_1
+Subnet_India.node_10,0,Common ST,designated_port,Subnet_India.node_10 <-> node_2
+Subnet_India.node_10,0,Common ST,designated_port,Subnet_India.node_10 <-> node_3
+Subnet_India.node_10,0,Common ST,designated_port,Subnet_India.node_10 <-> node_4
+Subnet_India.node_10,0,Common ST,designated_port,Subnet_India.node_10 <-> node_5
+Subnet_India.node_10,0,Common ST,designated_port,Subnet_India.node_10 <-> node_6
+Subnet_India.node_10,0,Common ST,designated_port,Subnet_India.node_10 <-> node_7
+Subnet_India.node_10,0,Common ST,designated_port,Subnet_India.node_10 <-> node_8
+Subnet_India.node_10,0,Common ST,designated_port,Subnet_India.node_10 <-> node_9
+Subnet_India.node_10,0,Common ST,designated_port,Subnet_India.India_router <-> node_10
+Main_Subnet_USA.node_10,0,Common ST,root,none
+Main_Subnet_USA.node_10,0,Common ST,designated_port,Main_Subnet_USA.node_10 <-> node_0
+Main_Subnet_USA.node_10,0,Common ST,designated_port,Main_Subnet_USA.node_10 <-> node_1
+Main_Subnet_USA.node_10,0,Common ST,designated_port,Main_Subnet_USA.node_10 <-> node_2
+Main_Subnet_USA.node_10,0,Common ST,designated_port,Main_Subnet_USA.node_10 <-> node_3
+Main_Subnet_USA.node_10,0,Common ST,designated_port,Main_Subnet_USA.node_10 <-> node_4
+Main_Subnet_USA.node_10,0,Common ST,designated_port,Main_Subnet_USA.node_10 <-> node_5
+Main_Subnet_USA.node_10,0,Common ST,designated_port,Main_Subnet_USA.node_10 <-> node_6
+Main_Subnet_USA.node_10,0,Common ST,designated_port,Main_Subnet_USA.node_10 <-> node_7
+Main_Subnet_USA.node_10,0,Common ST,designated_port,Main_Subnet_USA.node_10 <-> node_8
+Main_Subnet_USA.node_10,0,Common ST,designated_port,Main_Subnet_USA.node_10 <-> node_9
+Main_Subnet_USA.node_10,0,Common ST,designated_port,Main_Subnet_USA.File Server <-> node_10
+Main_Subnet_USA.node_10,0,Common ST,designated_port,Main_Subnet_USA.Database Server <-> node_10
+Main_Subnet_USA.node_10,0,Common ST,designated_port,Main_Subnet_USA.Http Server <-> node_10
+Main_Subnet_USA.node_10,0,Common ST,designated_port,Main_Subnet_USA.Email server <-> node_10
+Main_Subnet_USA.node_10,0,Common ST,designated_port,Main_Subnet_USA.USA_Router <-> node_10
+Subnet_Germany.node_10,0,Common ST,root,none
+Subnet_Germany.node_10,0,Common ST,designated_port,Subnet_Germany.node_10 <-> node_0
+Subnet_Germany.node_10,0,Common ST,designated_port,Subnet_Germany.node_10 <-> node_1
+Subnet_Germany.node_10,0,Common ST,designated_port,Subnet_Germany.node_10 <-> node_2
+Subnet_Germany.node_10,0,Common ST,designated_port,Subnet_Germany.node_10 <-> node_3
+Subnet_Germany.node_10,0,Common ST,designated_port,Subnet_Germany.node_10 <-> node_4
+Subnet_Germany.node_10,0,Common ST,designated_port,Subnet_Germany.node_10 <-> node_5
+Subnet_Germany.node_10,0,Common ST,designated_port,Subnet_Germany.node_10 <-> node_6
+Subnet_Germany.node_10,0,Common ST,designated_port,Subnet_Germany.node_10 <-> node_7
+Subnet_Germany.node_10,0,Common ST,designated_port,Subnet_Germany.node_10 <-> node_8
+Subnet_Germany.node_10,0,Common ST,designated_port,Subnet_Germany.node_10 <-> node_9
+Subnet_Germany.node_10,0,Common ST,designated_port,Subnet_Germany.Germany_router <-> node_10

@@ -1,0 +1,25 @@
+# identity_string	x_min	y_min	x_max	y_max
+nt/Choose Statistic Results	347	80	871	565
+project/tool_dialog,WorldWide Network1	8	50	1358	735
+obj/edit_attr_undo	239	192	585	373
+System/tool_dialog	481	139	960	497
+nt/config_obj_palette	722	246	1166	368
+nt/obj_model_choose,object_palette	784	146	1228	550
+nt/rapid_config/Rapid Configuration	349	114	693	191
+nt/rapid_config/Rapid Configuration: Star	364	149	789	384
+project/tool_dialog	0	42	1365	727
+obj/compound_horizontal	401	197	1000	481
+project/tool_dialog,N__S_WirelessLAN1	301	101	1060	700
+mmi/toolop/Prompt	226	395	470	456
+an/view_results	583	49	1352	596
+nt/swiz/master	144	294	859	533
+mmi/toolop/New	10	8	243	66
+obj/compound_vertical	416	232	798	435
+mmi/tool_dialog	198	121	957	720
+mmi/Confirm	49	79	213	129
+mmi/view_msg_pad	39	49	679	529
+mmi/toolop/Open_Warn	10	8	374	181
+mmi/toolop/Confirm2lines	547	262	791	330
+mmi/suppress_prompt_dlg	258	35	667	159
+project/tool_dialog,opnetNS__TCP	572	121	1331	720
+ex/simple_progress	648	118	1147	437
